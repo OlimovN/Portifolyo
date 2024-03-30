@@ -31,11 +31,6 @@ const projects = [
     vercelLink: "https://amerika-sigma.vercel.app/",
   },
   {
-    title: "Calculyator ",
-    githubLink: "https://github.com/OlimovN/calculator",
-    vercelLink: "https://calculator-sigma-beige.vercel.app/",
-  },
-  {
     title: " De Parfum",
     githubLink:"https://github.com/OlimovN/figma3",
     vercelLink: "https://figma3-rho.vercel.app/",
@@ -49,6 +44,11 @@ const projects = [
     title: "Davlatlarga sayohat",
     githubLink: "https://github.com/OlimovN/davlatlarga-sayohat",
     vercelLink: "https://davlatlarga-sayohat.vercel.app/",
+  },
+  {
+    title: "Calculyator ",
+    githubLink: "https://github.com/OlimovN/calculator",
+    vercelLink: "https://calculator-sigma-beige.vercel.app/",
   },
   {
     title: "Nature trip",
