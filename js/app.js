@@ -60,6 +60,16 @@ const projects = [
     githubLink: "https://github.com/OlimovN/Castaway",
     vercelLink: "https://castaway-theta.vercel.app/",
   },
+  {
+    title: "Create x | services",
+    githubLink: "https://github.com/OlimovN/create-x",
+    vercelLink: "https://create-x-gamma.vercel.app/",
+  },
+  {
+    title: "Create x | news",
+    githubLink: "https://github.com/OlimovN/create-x",
+    vercelLink: "https://create-x-gamma.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
