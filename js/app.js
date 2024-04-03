@@ -70,6 +70,11 @@ const projects = [
     githubLink: "https://github.com/OlimovN/create-x",
     vercelLink: "https://create-x-gamma.vercel.app/",
   },
+  {
+    title: "Animations | ",
+    githubLink: "https://github.com/OlimovN/animation",
+    vercelLink: "https://animation-eight-olive.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
