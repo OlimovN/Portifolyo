@@ -75,6 +75,11 @@ const projects = [
     githubLink: "https://github.com/OlimovN/animation",
     vercelLink: "https://animation-eight-olive.vercel.app/",
   },
+  {
+    title: "Exam|my team ",
+    githubLink: "https://github.com/OlimovN/-----------",
+    vercelLink: "https://my-team-murex.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
