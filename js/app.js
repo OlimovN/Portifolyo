@@ -76,6 +76,11 @@ const projects = [
     vercelLink: "https://animation-eight-olive.vercel.app/",
   },
   {
+    title: "Crowfund | ",
+    githubLink: "https://github.com/OlimovN/crowfund",
+    vercelLink: "https://crowfund-chi.vercel.app/",
+  },
+  {
     title: "Exam|my team ",
     githubLink: "https://github.com/OlimovN/-----------",
     vercelLink: "https://my-team-murex.vercel.app/",
