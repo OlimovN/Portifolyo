@@ -66,9 +66,9 @@ const projects = [
     vercelLink: "https://create-x-gamma.vercel.app/",
   },
   {
-    title: "Create x | news",
-    githubLink: "https://github.com/OlimovN/create-x",
-    vercelLink: "https://create-x-gamma.vercel.app/",
+    title: "Create x | ",
+    githubLink: "https://github.com/OlimovN/Create-X-",
+    vercelLink: "https://create-x-kappa.vercel.app/
   },
   {
     title: "Animations | ",
