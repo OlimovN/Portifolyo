@@ -66,17 +66,17 @@ const projects = [
     vercelLink: "https://create-x-gamma.vercel.app/",
   },
   {
-    title: "Create x | ",
+    title: "Create x  ",
     githubLink: "https://github.com/OlimovN/Create-X-",
     vercelLink: "https://create-x-kappa.vercel.app/
   },
   {
-    title: "Animations | ",
+    title: "Animations",
     githubLink: "https://github.com/OlimovN/animation",
     vercelLink: "https://animation-eight-olive.vercel.app/",
   },
   {
-    title: "Crowfund | ",
+    title: "Crowfund ",
     githubLink: "https://github.com/OlimovN/crowfund",
     vercelLink: "https://crowfund-chi.vercel.app/",
   },
