@@ -21,8 +21,7 @@ const projects = [
   },
   {
     title: "Uzbekistan web site ",
-    githubLink:
-      "https://github.com/OlimovN/uzbekistan",
+    githubLink:"https://github.com/OlimovN/uzbekistan",
     vercelLink: "https://uzbekistan-three.vercel.app/",
   },
   {
@@ -68,7 +67,7 @@ const projects = [
   {
     title: "Create x  ",
     githubLink: "https://github.com/OlimovN/Create-X-",
-    vercelLink: "https://create-x-kappa.vercel.app/
+    vercelLink: "https://create-x-kappa.vercel.app/"
   },
   {
     title: "Animations",
