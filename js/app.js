@@ -81,8 +81,8 @@ const projects = [
   },
   {
     title: "Exam|my team ",
-    githubLink: "https://github.com/OlimovN/-----------",
-    vercelLink: "https://my-team-murex.vercel.app/",
+    githubLink: "https://github.com/OlimovN/st254wgsrdfb",
+    vercelLink: "https://exam-seven-amber.vercel.app/",
   },
 ];
 
