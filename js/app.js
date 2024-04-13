@@ -81,7 +81,7 @@ const projects = [
   },
   {
     title: "Exam|my team ",
-    githubLink: "https://github.com/OlimovN/st254wgsrdfb",
+    githubLink: "",
     vercelLink: "https://exam-seven-amber.vercel.app/",
   },
 ];
