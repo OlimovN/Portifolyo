@@ -84,6 +84,11 @@ const projects = [
     githubLink: "https://github.com/OlimovN/st254wgsrdfb",
     vercelLink: "https://exam-seven-amber.vercel.app/",
   },
+  {
+    title: "Amalaiyot | js",
+    githubLink: "https://github.com/OlimovN/aMALIYOT-JS",
+    vercelLink: "https://a-maliyot-js.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
