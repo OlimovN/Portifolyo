@@ -89,6 +89,11 @@ const projects = [
     githubLink: "https://github.com/OlimovN/aMALIYOT-JS",
     vercelLink: "https://a-maliyot-js.vercel.app/",
   },
+  {
+    title: "Js and If",
+    githubLink:"https//github.com/OlimovN/js-or-if",
+    vercelLink:"https://js-or-if.vercel.app",
+  },
 ];
 
 const template = document.querySelector("template");
