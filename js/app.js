@@ -94,6 +94,11 @@ const projects = [
     githubLink:"https//github.com/OlimovN/js-or-if",
     vercelLink:"https://js-or-if.vercel.app",
   },
+  {
+    title:"Js and For",
+    githubLink:"https://github.com/OlimovN/Js-and-for",
+    vercelLink:"https://vercel.com/nurmukhammads-projects",
+  },
 ];
 
 const template = document.querySelector("template");
