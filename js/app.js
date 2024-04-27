@@ -104,7 +104,7 @@ const projects = [
 const template = document.querySelector("template");
 const worksList = document.querySelector(".works__list");
 
-projects.forEach((project) => {
+  projects.forEach((project) => {
   const clone = template.content.cloneNode(true);
 
   const title = clone.querySelector(".works__list__title");
