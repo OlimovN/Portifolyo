@@ -21,7 +21,7 @@ const projects = [
   },
   {
     title: "Uzbekistan web site ",
-    githubLink:"https://github.com/OlimovN/uzbekistan",
+    githubLink: "https://github.com/OlimovN/uzbekistan",
     vercelLink: "https://uzbekistan-three.vercel.app/",
   },
   {
@@ -31,7 +31,7 @@ const projects = [
   },
   {
     title: " De Parfum",
-    githubLink:"https://github.com/OlimovN/figma3",
+    githubLink: "https://github.com/OlimovN/figma3",
     vercelLink: "https://figma3-rho.vercel.app/",
   },
   {
@@ -67,7 +67,7 @@ const projects = [
   {
     title: "Create x  ",
     githubLink: "https://github.com/OlimovN/Create-X-",
-    vercelLink: "https://create-x-kappa.vercel.app/"
+    vercelLink: "https://create-x-kappa.vercel.app/",
   },
   {
     title: "Animations",
@@ -91,14 +91,19 @@ const projects = [
   },
   {
     title: "Js and If",
-    githubLink:"https//github.com/OlimovN/js-or-if",
-    vercelLink:"https://js-or-if.vercel.app",
+    githubLink: "https//github.com/OlimovN/js-or-if",
+    vercelLink: "https://js-or-if.vercel.app",
   },
   {
-    title:"Js and For",
-    githubLink:"https://github.com/OlimovN/Js-and-for",
-    vercelLink:"https://vercel.com/nurmukhammads-projects",
+    title: "Js and For",
+    githubLink: "https://github.com/OlimovN/Js-and-for",
+    vercelLink: "https://js-and-for.vercel.app/",
   },
+  // {
+  //   title: "Js and functions 42talik",
+  //   githubLink: "",
+  //   vercelLink: "",
+  // },
 ];
 
 const template = document.querySelector("template");
