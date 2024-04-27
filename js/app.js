@@ -95,15 +95,10 @@ const projects = [
     vercelLink: "https://js-or-if.vercel.app",
   },
   {
-    title: " 5 Dars",
+    title: "5 - dars",
     githubLink: "https://github.com/OlimovN/4.5---dars",
     vercelLink: "https://4-5-dars-ochre.vercel.app/",
   },
-  // {
-  //   title: "Js and functions 42talik",
-  //   githubLink: "",
-  //   vercelLink: "",
-  // },
 ];
 
 const template = document.querySelector("template");
