@@ -95,9 +95,9 @@ const projects = [
     vercelLink: "https://js-or-if.vercel.app",
   },
   {
-    title: "Js and For",
-    githubLink: "https://github.com/OlimovN/Js-and-for",
-    vercelLink: "https://js-and-for.vercel.app/",
+    title: " 5 Dars",
+    githubLink: "https://github.com/OlimovN/4.5---dars",
+    vercelLink: "https://4-5-dars-ochre.vercel.app/",
   },
   // {
   //   title: "Js and functions 42talik",
