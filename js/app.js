@@ -104,11 +104,11 @@ const projects = [
     githubLink: "https://github.com/OlimovN/4.5---dars",
     vercelLink: "https://4-5-dars-ochre.vercel.app/",
   },
-  // {
-  //   title: "7 - dars",
-  //   githubLink: "https://github.com/OlimovN/4.7-masala",
-  //   vercelLink: "https://4-7-masala.vercel.app/",
-  // },
+  {
+    title: "7 - dars",
+    githubLink: "https://github.com/OlimovN/4.7-masala",
+    vercelLink: "https://4-7-masala.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
