@@ -91,8 +91,8 @@ const projects = [
   },
   {
     title: "4 - dars",
-    githubLink: "https//github.com/OlimovN/js-or-if",
-    vercelLink: "https://js-or-if.vercel.app",
+    githubLink: "https://github.com/OlimovN/vazifa-for",
+    vercelLink: "https://vazifa-for.vercel.app/",
   },
   {
     title: "5 - dars",
