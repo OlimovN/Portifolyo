@@ -149,6 +149,27 @@ const projects = [
     githubLink: "https://github.com/OlimovN/5.4-dars",
     vercelLink: "https://5-4-dars-ten.vercel.app/",
   },
+  {
+    title: "5 - oy 5 dars",
+    githubLink: "https://audio-player-mauve.vercel.app/",
+    vercelLink: "https://github.com/OlimovN/audio-player",
+  },
+  {
+    title: "5 - oy 6 dars",
+    githubLink:
+      "https://amaliyot-6-dars-5cstyxrnj-nurmukhammads-projects.vercel.app/",
+    vercelLink: "https://github.com/OlimovN/AMALIYOT-6-dars",
+  },
+  {
+    title: "5 - oy 7 dars",
+    githubLink: "",
+    vercelLink: "",
+  },
+  {
+    title: "5 - oy 9 dars",
+    githubLink: "",
+    vercelLink: "",
+  },
 ];
 
 const template = document.querySelector("template");
