@@ -162,8 +162,8 @@ const projects = [
   },
   {
     title: "5 - oy 7 dars",
-    githubLink: "",
-    vercelLink: "",
+    githubLink: "https://github.com/OlimovN/7-dars-todo",
+    vercelLink: "https://7-dars-todo.vercel.app/",
   },
   {
     title: "5 - oy 9 dars",
