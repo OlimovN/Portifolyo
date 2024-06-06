@@ -120,11 +120,6 @@ const projects = [
     vercelLink: "https://4-8-dars-theta.vercel.app/",
   },
   {
-    title: "10 - dars",
-    githubLink: "",
-    vercelLink: "",
-  },
-  {
     title: "11 - dars",
     githubLink: "https://github.com/OlimovN/11---dars",
     vercelLink: "https://11-dars-two-xi.vercel.app/",
@@ -167,8 +162,13 @@ const projects = [
   },
   {
     title: "5 - oy 9 dars",
-    githubLink: "",
-    vercelLink: "",
+    githubLink: "https://github.com/OlimovN/9--dars",
+    vercelLink: "https://random-user-main-qqkc.vercel.app/",
+  },
+  {
+    title: "5 - oy 10 dars",
+    githubLink: "https://github.com/OlimovN/Random-User-main",
+    vercelLink: "https://random-user-main.vercel.app/",
   },
 ];
 
