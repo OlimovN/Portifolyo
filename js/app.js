@@ -170,12 +170,17 @@ const projects = [
     githubLink: "https://github.com/OlimovN/Random-User-main",
     vercelLink: "https://random-user-main.vercel.app/",
   },
+  {
+    title: "5 - oy 12 dars exam",
+    githubLink: "github.com/OlimovN/exam-5month",
+    vercelLink: "https://exam-5month.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
 const worksList = document.querySelector(".works__list");
 
-  projects.forEach((project) => {
+https: projects.forEach((project) => {
   const clone = template.content.cloneNode(true);
 
   const title = clone.querySelector(".works__list__title");
